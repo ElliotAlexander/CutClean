@@ -1,0 +1,4 @@
+name: CutClean
+version: 1.0
+main: uk.co.ElllzUHC.Cutclean.Cutclean
+depend: [ScenarioManager]
